@@ -5,7 +5,7 @@ layout: page
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <!-- Left Column: Image and Contact Information -->
-    <td style="width: 35%; vertical-align: top; padding-right: 20px; background-color: white;">
+    <td style="width: 35%; vertical-align: top; padding-right: 20px; background-color: white; overflow: hidden;">
       <img src="/uploads/20240926 JLH Irakli Shalikashvili-002.jpg" alt="Irakli Shalikashvili" style="width: 100%; margin-bottom: 10px;">
 
       <h3>Contact Information:</h3>
@@ -15,12 +15,14 @@ layout: page
     </td>
 
     <!-- Right Column: Main Text Content -->
-    <td style="vertical-align: top; background-color: white;">
-      <p>I am currently a Postdoctoral Teaching Scholar at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I received my Ph.D. in Economics from the <a href="https://economics.nd.edu">Department of Economics</a> at Notre Dame in May 2024. My research focuses on the intersection of monetary policy and economic dynamics, with an emphasis on labor markets, inflation expectations, and the extensive margin of the production sector.</p>
+    <td style="vertical-align: top; background-color: white; padding-left: 15px; overflow: hidden;">
+      <div style="max-width: 600px;"> <!-- Optional max-width to control text flow -->
+        <p>I am currently a Postdoctoral Teaching Scholar at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I received my Ph.D. in Economics from the <a href="https://economics.nd.edu">Department of Economics</a> at Notre Dame in May 2024. My research focuses on the intersection of monetary policy and economic dynamics, with an emphasis on labor markets, inflation expectations, and the extensive margin of the production sector.</p>
 
-      <p>My Ph.D. advisors are <a href="https://sites.nd.edu/esims/">Eric Sims</a>, <a href="https://sites.google.com/nd.edu/jrcampbell/home">Jeffrey R. Campbell</a>, and <a href="https://sites.nd.edu/james-sullivan/">James X. Sullivan</a>.</p>
+        <p>My Ph.D. advisors are <a href="https://sites.nd.edu/esims/">Eric Sims</a>, <a href="https://sites.google.com/nd.edu/jrcampbell/home">Jeffrey R. Campbell</a>, and <a href="https://sites.nd.edu/james-sullivan/">James X. Sullivan</a>.</p>
 
-      <p><a href="/uploads/research/heterogenous_unemployment.pdf">My Job Market Paper</a> examines the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers using time-series analysis. I am open to opportunities in academic research and teaching, as well as roles in research institutes, economic consulting, and government positions.</p>
+        <p><a href="/uploads/research/heterogenous_unemployment.pdf">My Job Market Paper</a> examines the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers using time-series analysis. I am open to opportunities in academic research and teaching, as well as roles in research institutes, economic consulting, and government positions.</p>
+      </div>
     </td>
   </tr>
 </table>
@@ -31,7 +33,7 @@ layout: page
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <!-- First Column of Education -->
-    <td style="vertical-align: top; padding-right: 20px; background-color: white;">
+    <td style="vertical-align: top; padding-right: 20px; background-color: white; overflow: hidden;">
       <p>- <strong>Ph.D., Economics (2024)</strong><br>
       University of Notre Dame</p>
 
@@ -43,7 +45,7 @@ layout: page
     </td>
 
     <!-- Second Column of Education -->
-    <td style="vertical-align: top; background-color: white;">
+    <td style="vertical-align: top; background-color: white; overflow: hidden;">
       <p>- <strong>MA, Economics (2015)</strong><br>
       International School of Economics at TSU (ISET)</p>
 
