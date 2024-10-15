@@ -51,9 +51,4 @@ layout: page
       University of Georgia</p>
     </td>
   </tr>
-</table>
-      - **BA, Economics (2012)**  
-        University of Georgia  
-    </td>
-  </tr>
-</table>
+</table>    
