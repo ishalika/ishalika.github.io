@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-
+<body style="overflow: hidden;">
 <div style="overflow: hidden;">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
@@ -56,3 +56,4 @@ layout: page
     </tr>
   </table>
 </div>
+</body>
