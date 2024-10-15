@@ -2,12 +2,12 @@
 layout: page
 ---
 
-<table style="width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <!-- Left Column: Image and Contact Information -->
-    <td style="width: 35%; vertical-align: top; padding-right: 20px;">
+    <td style="width: 35%; vertical-align: top; padding-right: 20px; background-color: white;">
       <img src="/uploads/20240926 JLH Irakli Shalikashvili-002.jpg" alt="Irakli Shalikashvili" style="width: 100%; margin-bottom: 10px;">
-      
+
       <h3>Contact Information:</h3>
       <p><strong>Irakli Shalikashvili</strong><br>
       Cell: +1 (574) 334-6280<br>
@@ -15,7 +15,7 @@ layout: page
     </td>
 
     <!-- Right Column: Main Text Content -->
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; background-color: white;">
       <p>I am currently a Postdoctoral Teaching Scholar at the <a href="https://www.nd.edu/">University of Notre Dame</a>. I received my Ph.D. in Economics from the <a href="https://economics.nd.edu">Department of Economics</a> at Notre Dame in May 2024. My research focuses on the intersection of monetary policy and economic dynamics, with an emphasis on labor markets, inflation expectations, and the extensive margin of the production sector.</p>
 
       <p>My Ph.D. advisors are <a href="https://sites.nd.edu/esims/">Eric Sims</a>, <a href="https://sites.google.com/nd.edu/jrcampbell/home">Jeffrey R. Campbell</a>, and <a href="https://sites.nd.edu/james-sullivan/">James X. Sullivan</a>.</p>
@@ -28,10 +28,10 @@ layout: page
 <hr>
 
 <h3>Education</h3>
-<table style="width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <!-- First Column of Education -->
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td style="vertical-align: top; padding-right: 20px; background-color: white;">
       <p>- <strong>Ph.D., Economics (2024)</strong><br>
       University of Notre Dame</p>
 
@@ -43,7 +43,7 @@ layout: page
     </td>
 
     <!-- Second Column of Education -->
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; background-color: white;">
       <p>- <strong>MA, Economics (2015)</strong><br>
       International School of Economics at TSU (ISET)</p>
 
@@ -51,4 +51,4 @@ layout: page
       University of Georgia</p>
     </td>
   </tr>
-</table>    
+</table>
