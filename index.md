@@ -22,7 +22,9 @@ layout: page
 
           <p>My Ph.D. advisors are <a href="https://sites.nd.edu/esims/">Eric Sims</a>, <a href="https://sites.google.com/nd.edu/jrcampbell/home">Jeffrey R. Campbell</a>, and <a href="https://sites.nd.edu/james-sullivan/">James X. Sullivan</a>.</p>
 
-          <p><a href="/uploads/research/heterogenous_unemployment.pdf">My Job Market Paper</a> examines the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers using time-series analysis. I am open to opportunities in academic research and teaching, as well as roles in research institutes, economic consulting, and government positions.</p>
+          <p><a href="/uploads/research/heterogenous_unemployment.pdf">My Job Market Paper</a> examines the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers using time-series analysis.</p>
+
+          <p>I am open to opportunities in academic research and teaching, as well as roles in research institutes, economic consulting, and government positions.<p>
         </div>
       </td>
     </tr>
