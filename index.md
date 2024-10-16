@@ -36,7 +36,7 @@ layout: page
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <!-- First Column of Education -->
-      <td style="vertical-align: top; padding-right: 20px; background-color: white; overflow: hidden;">
+      <td style="vertical-align: top; width: 50%; padding-right: 20px; background-color: white; overflow: hidden;">
         <p>- <strong>Ph.D., Economics (2024)</strong><br>
         University of Notre Dame</p>
 
@@ -48,7 +48,7 @@ layout: page
       </td>
 
       <!-- Second Column of Education -->
-      <td style="vertical-align: top; background-color: white; overflow: hidden;">
+      <td style="vertical-align: top; width: 50%; padding-left: 20px; background-color: white; overflow: hidden;">
         <p>- <strong>MA, Economics (2015)</strong><br>
         International School of Economics at TSU (ISET)</p>
 
