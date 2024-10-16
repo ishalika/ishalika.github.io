@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Research
 ---
-# <span style="color:#1565C0"> PhD Research </span>
+# <span style="color:#1565C0"> Research </span>
 
 ## Job Market Paper
 
