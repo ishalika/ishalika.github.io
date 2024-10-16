@@ -24,7 +24,7 @@ layout: page
 
           <p><a href="/uploads/research/heterogenous_unemployment.pdf">My Job Market Paper</a> examines the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers using time-series analysis.</p>
 
-          <p>I am open to opportunities in academic research and teaching, as well as roles in research institutes, economic consulting, and government positions.<p>
+          <p>I am open to opportunities in academic research and teaching, as well as roles in research institutes, economic consulting, and government positions.</p>
         </div>
       </td>
     </tr>
