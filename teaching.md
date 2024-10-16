@@ -2,54 +2,83 @@
 layout: page
 title: Teaching
 ---
-# <span style="color:#1565C0"> Teaching During Ph.D.</span>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Teaching Experience</title>
+</head>
+<body>
 
-##  <span style="color:#1E88E5"> The University of Notre Dame (Notre Dame, IN)</span>
-## Principles of Macroeconomics - Instructor of Record
-**Currently ongoing** – evaluation not yet available.
+<h1 style="color:#1565C0">Teaching During Ph.D.</h1>
 
-## Managerial Economics - Instructor of Record (Mendoza College of Business)
-[Fall 2022](/uploads/Instructor_History_managerial.pdf) (Median Composite Score = 4.1/5)
+<table style="width: 100%; border-collapse: collapse; background-color: white;">
+  <tr>
+    <!-- First Column -->
+    <td style="vertical-align: top; padding: 10px;">
+      <h3 style="color:#1E88E5">The University of Notre Dame (Notre Dame, IN)</h3>
+      <p><strong>Principles of Macroeconomics - Instructor of Record</strong><br>
+      Currently ongoing – evaluation not yet available.</p>
 
-## Tutor for Statistics for Economics (undergraduate level)
-[Spring 2022](/uploads/Instructor_History_stats_2022.pdf) (Median Composite Score = 5/5)
+      <p><strong>Managerial Economics - Instructor of Record (Mendoza College of Business)</strong><br>
+      <a href="/uploads/Instructor_History_managerial.pdf">Fall 2022</a> (Median Composite Score = 4.1/5)</p>
 
-[Fall 2021](/uploads/Instructor_History_stats_2021.pdf) (Median Composite Score = 4.9/5)
+      <p><strong>Tutor for Statistics for Economics (undergraduate level)</strong><br>
+      <a href="/uploads/Instructor_History_stats_2022.pdf">Spring 2022</a> (Median Composite Score = 5/5)<br>
+      <a href="/uploads/Instructor_History_stats_2021.pdf">Fall 2021</a> (Median Composite Score = 4.9/5)</p>
+    </td>
 
-## Tutor for Macroeconomic Theory II (graduate level)
-[Spring 2023](/uploads/Instructor_History_macro_2_2023.pdf) (Median Composite Score = 5/5)
+    <!-- Second Column -->
+    <td style="vertical-align: top; padding: 10px;">
+      <p><strong>Tutor for Macroeconomic Theory II (graduate level)</strong><br>
+      <a href="/uploads/Instructor_History_macro_2_2023.pdf">Spring 2023</a> (Median Composite Score = 5/5)<br>
+      <a href="/uploads/Instructor_History_macro_2_2021.pdf">Spring 2021</a> (Median Composite Score = 5/5)</p>
 
-[Spring 2021](/uploads/Instructor_History_macro_2_2021.pdf) (Median Composite Score = 5/5)
+      <p><strong>Tutor for Macroeconomic Theory I (graduate level)</strong><br>
+      <a href="/uploads/Instructor_History_macro_1_2020.pdf">Fall 2020</a> (Median Composite Score = 4.7/5)</p>
+    </td>
+  </tr>
+</table>
 
-## Tutor for Macroeconomic Theory I (graduate level)
-[Fall 2020](/uploads/Instructor_History_macro_1_2020.pdf)   (Median Composite Score = 4.7/5)
+<hr>
 
-# <span style="color:#1565C0"> Teaching Before Ph.D. </span>
+<h1 style="color:#1565C0">Teaching Before Ph.D.</h1>
 
-## <span style="color:#1E88E5"> University of Georgia (Tbilisi, Georgia) </span>
+<table style="width: 100%; border-collapse: collapse; background-color: white;">
+  <tr>
+    <!-- First Column -->
+    <td style="vertical-align: top; padding: 10px;">
+      <h3 style="color:#1E88E5">University of Georgia (Tbilisi, Georgia)</h3>
+      <p><strong>Principles of Microeconomics - Instructor</strong><br>
+      Fall (2017, 2016, 2015); Spring (2018, 2017, 2016)</p>
 
-## Principles of Microeconomics - Instructor
-**Fall (2017,2016,2015); Spring (2018,2017,2016)**
+      <p><strong>Intermediate Microeconomics I - Instructor</strong><br>
+      Fall 2016</p>
 
-## Intermediate Microeconomics I - Instructor
-**Fall 2016**
+      <p><strong>Intermediate Microeconomics II - Instructor</strong><br>
+      Fall 2017; Spring 2018</p>
 
-## Intermediate Microeconomics II - Instructor
-**Fall 2017; Spring 2018**
+      <p><strong>Industrial Organization - Instructor</strong><br>
+      Fall 2018</p>
+    </td>
 
-## Industrial Organization - Instructor
-**Fall 2018**
+    <!-- Second Column -->
+    <td style="vertical-align: top; padding: 10px;">
+      <p><strong>International Economics I - Instructor</strong><br>
+      Fall 2017; Spring 2018</p>
 
-## International Economics I - Instructor
-**Fall 2017; Spring 2018**
+      <p><strong>International Economics I - Instructor</strong><br>
+      Spring 2016</p>
 
-## International Economics I - Instructor
-**Spring 2016**
+      <h3 style="color:#1E88E5">European University (Tbilisi, Georgia)</h3>
+      <p><strong>Principles of Macroeconomics - Instructor</strong><br>
+      Spring 2017</p>
 
-## <span style="color:#1E88E5"> European University (Tbilisi, Georgia) </span>
+      <p><strong>Managerial Economics, Graduate - Instructor</strong><br>
+      Fall 2018; Spring 2017</p>
+    </td>
+  </tr>
+</table>
 
-## Principles of Macroeconomics - Instructor
-**Spring 2017**
-
-## Managerial Economics, Graduate - Instructor
-**Fall 2018; Spring 2017**
+</body>
+</html>
