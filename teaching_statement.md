@@ -1,4 +1,8 @@
 ---
 layout: page
-title: Teaching Statement
+title: <span style="color:#1565C0">Teaching Statement </span> 
 ---
+You can download my CV from [here](/uploads/teaching_statement_shalikashvili.pdf). 
+
+<object data="/uploads/cv_irakli_shalikashvili.pdf" width="900" height="800" type='application/pdf'></object>
+<br>
