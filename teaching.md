@@ -2,7 +2,6 @@
 layout: page
 title: Teaching
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -15,7 +14,7 @@ title: Teaching
 <table style="width: 100%; border-collapse: collapse; background-color: white;">
   <tr>
     <!-- First Column -->
-    <td style="vertical-align: top; padding: 10px;">
+    <td style="vertical-align: top; padding: 10px; width: 50%;">
       <h3 style="color:#1E88E5">The University of Notre Dame (Notre Dame, IN)</h3>
       <p><strong>Principles of Macroeconomics - Instructor of Record</strong><br>
       Currently ongoing – evaluation not yet available.</p>
@@ -29,7 +28,7 @@ title: Teaching
     </td>
 
     <!-- Second Column -->
-    <td style="vertical-align: top; padding: 10px;">
+    <td style="vertical-align: top; padding: 10px; width: 50%;">
       <p><strong>Tutor for Macroeconomic Theory II (graduate level)</strong><br>
       <a href="/uploads/Instructor_History_macro_2_2023.pdf">Spring 2023</a> (Median Composite Score = 5/5)<br>
       <a href="/uploads/Instructor_History_macro_2_2021.pdf">Spring 2021</a> (Median Composite Score = 5/5)</p>
@@ -47,7 +46,7 @@ title: Teaching
 <table style="width: 100%; border-collapse: collapse; background-color: white;">
   <tr>
     <!-- First Column -->
-    <td style="vertical-align: top; padding: 10px;">
+    <td style="vertical-align: top; padding: 10px; width: 50%;">
       <h3 style="color:#1E88E5">University of Georgia (Tbilisi, Georgia)</h3>
       <p><strong>Principles of Microeconomics - Instructor</strong><br>
       Fall (2017, 2016, 2015); Spring (2018, 2017, 2016)</p>
@@ -63,7 +62,7 @@ title: Teaching
     </td>
 
     <!-- Second Column -->
-    <td style="vertical-align: top; padding: 10px;">
+    <td style="vertical-align: top; padding: 10px; width: 50%;">
       <p><strong>International Economics I - Instructor</strong><br>
       Fall 2017; Spring 2018</p>
 
