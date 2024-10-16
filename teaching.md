@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 ---
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
