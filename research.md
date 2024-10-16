@@ -9,7 +9,10 @@ title: Research
 
 **Abstract:** 
 
-This paper investigates the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers, using time-series analysis. I develop a New Keynesian DSGE model with asymmetric search and matching frictions, calibrated to empirical impulse responses. Motivated by these findings, I study optimal monetary policy rules in a framework with sticky prices, asymmetric matching frictions, and real wage rigidities. The results show that the optimal policy should respond to both low- and high-skill unemployment alongside inflation, as addressing the congestion externalities inherent in the labor market is crucial for reducing inefficiencies. A strong response to inflation remains optimal, while responding to output tend to reduce the welfare.
+This paper examines the welfare effects of monetary policy rules targeting unemployment rates across skill levels within a DSGE framework. I develop a New Keynesian model with heterogeneous agents and asymmetric search and matching frictions, calibrated to reflect the empirical responses of low- and high-skill unemployment rates to
+identified monetary policy shocks. I find that the optimal monetary policy rule should respond to both low- and high-skill unemployment, alongside inflation. This need arises
+because, unlike standard New Keynesian models, the inclusion of skill-specific matching frictions introduces a congestion externality that elevates unemployment levels inefficiently.
+While a robust response to inflation remains welfare improving, responding to output consistently reduces welfare outcomes.
 
 ## Working Paper
 
