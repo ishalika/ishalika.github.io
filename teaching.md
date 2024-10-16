@@ -60,16 +60,16 @@ title: Teaching
 
       <p><strong>Industrial Organization - Instructor</strong><br>
       Fall 2018</p>
-    </td>
 
-    <!-- Second Column -->
-    <td style="vertical-align: top; padding: 10px; width: 50%; padding-left: 20px; background-color: white;">
       <p><strong>International Economics I - Instructor</strong><br>
       Fall 2017; Spring 2018</p>
 
       <p><strong>International Economics I - Instructor</strong><br>
       Spring 2016</p>
+    </td>
 
+    <!-- Second Column -->
+    <td style="vertical-align: top; padding: 10px; width: 50%; padding-left: 20px; background-color: white;">
       <h3 style="color:#1E88E5">European University (Tbilisi, Georgia)</h3>
       <p><strong>Principles of Macroeconomics - Instructor</strong><br>
       Spring 2017</p>
