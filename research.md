@@ -5,7 +5,7 @@ title: Research
 
 ## Job Market Paper
 
-[Monetary Policy Analysis With Heterogeneous Unemployment Dynamics](uploads/research/Monetary Policy Analysis with Heterogeneous Unemployment Dynamics - JMP.pdf) 
+[Monetary Policy Analysis With Heterogeneous Unemployment Dynamics](/uploads/research/Monetary Policy Analysis with Heterogeneous Unemployment Dynamics - JMP.pdf) 
 
 **Abstract:** 
 
