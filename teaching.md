@@ -18,7 +18,7 @@ title: Teaching
     <td style="vertical-align: top; padding: 10px; width: 50%; padding-right: 20px; background-color: white;">
       <h3 style="color:#1E88E5">The University of Notre Dame (Notre Dame, IN)</h3>
       <p><strong>Principles of Macroeconomics - Instructor of Record</strong><br>
-      Currently ongoing – evaluation not yet available.</p>
+      <a href="/uploads/Instructor_History_macro_principles.pdf">Fall 2024</a> (Median Composite Score = 4.4/5)</p>
 
       <p><strong>Managerial Economics - Instructor of Record (Mendoza College of Business)</strong><br>
       <a href="/uploads/Instructor_History_managerial.pdf">Fall 2022</a> (Median Composite Score = 4.1/5)</p>
